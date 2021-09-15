@@ -1,1 +1,1 @@
-# SduCore
+# SduScore
